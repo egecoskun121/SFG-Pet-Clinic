@@ -21,14 +21,7 @@
         <java.version>11</java.version>
     </properties>
     <dependencies>
-
-
-
-
-
-
-
-    </dependencies>
+ </dependencies>
 
     <build>
         <plugins>
@@ -62,10 +55,8 @@
 
     <scm>
 
-            <developerConnection>scm:git:git@github.com:egecoskun121/SFG-Pet-Clinic.git</developerConnection>
+            <developerConnection>scm:git:https://github.com/aCodeRancher/SFG-Pet-Clinic-1.git</developerConnection>
             <tag>HEAD</tag>
-
-
-  </scm>
+    </scm>
 
 </project>
