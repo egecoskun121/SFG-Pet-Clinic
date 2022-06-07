@@ -63,7 +63,7 @@
 
     <scm>
 
-            <developerConnection>scm:git:git@github.com:egecoskun121/SFG-Pet-Clinic.git</developerConnection>
+            <developerConnection>scm:git:https://github.com/egecoskun121/SFG-Pet-Clinic.git</developerConnection>
             <tag>sfg-pet-clinic-0.0.2</tag>
 
 
