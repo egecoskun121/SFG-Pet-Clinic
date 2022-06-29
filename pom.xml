@@ -18,14 +18,9 @@
     <name>sfg-pet-clinic</name>
     <description>sfg-pet-clinic</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
-
-
-
-
-
 
 
     </dependencies>
@@ -62,11 +57,8 @@
     </build>
 
     <scm>
-
             <developerConnection>scm:git:https://github.com/egecoskun121/SFG-Pet-Clinic.git</developerConnection>
             <tag>sfg-pet-clinic-0.0.2</tag>
-
-
   </scm>
 
 </project>
